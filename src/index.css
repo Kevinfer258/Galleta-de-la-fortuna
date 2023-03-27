@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+h1,
+h2,
+p,
+span {
+    margin: 0;
+    margin-bottom: 0;
+}
+
+button {
+    border: none;
+}
+
+/* reseteos */
